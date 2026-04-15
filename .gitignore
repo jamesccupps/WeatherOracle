@@ -1,0 +1,31 @@
+# Data & models (user-specific, generated at runtime)
+data/weather_oracle.db
+data/weather_oracle.db-wal
+data/weather_oracle.db-shm
+data/weather_oracle.log*
+data/weather_oracle_config.json
+models/*.pkl
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

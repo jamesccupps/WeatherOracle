@@ -1,0 +1,28 @@
+{
+  "tempest_api_token": "",
+  "ha_url": "",
+  "ha_token": "",
+  "collection_interval_min": 15,
+  "retrain_interval_hours": 6,
+  "advisor_interval_hours": 4,
+  "min_training_samples": 48,
+  "forecast_hours": 72,
+  "claude_api_key": "",
+  "yolink_temp_entity": "",
+  "yolink_humidity_entity": "",
+  "outdoor_temp_entity": "",
+  "outdoor_humidity_entity": "",
+  "avg_outdoor_temp_entity": "",
+  "avg_outdoor_humidity_entity": "",
+  "locations": {
+    "home": {
+      "name": "Home",
+      "short": "HOME",
+      "tempest_station": 12345,
+      "lat": 40.7128,
+      "lon": -74.006,
+      "metar_station": "KJFK",
+      "nws_office": "OKX"
+    }
+  }
+}

@@ -31,7 +31,7 @@ WeatherOracle collects hourly forecasts from 7 weather models (GFS, HRRR, ECMWF,
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/WeatherOracle.git
+git clone https://github.com/jamesccupps/WeatherOracle.git
 cd WeatherOracle
 
 # Install dependencies
